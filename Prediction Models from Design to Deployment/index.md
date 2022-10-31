@@ -13,7 +13,8 @@ $1^{st}$ Term 2022:<br>
 ## __Requirements__ <a name="Requirements"></a>
 * Students will need either to install __Python software__ ([Anaconda](https://www.anaconda.com/products/distribution) and [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows) are most popular IDE tool) or can run the provided scripts online using __Jupyter__ or __Colabe__ but ample instructions for doing so are provided. 
   - For step-by-step installation instruction, vist and download the document at my [Github link](https://github.com/Moh-Sarem/) 
-* Ensure that both __matplotlib__ version __3.2.2__ and __seaborn__ version __0.11.2__ packages were installed in your PC or the online editor you used.
+* Ensure that __sklearn__ version __1.1.3__, __matplotlib__ version __3.6.0__, __pandas__ version __0.11.2__ packages were installed in your PC or the online editor you used. 
+* Upgrad __pip__ to the latest version is plus.
 * To work with dataset, I strongly recommend you creating an account on [kaggle website](https://www.kaggle.com/)(for more information about Kaggel and the benefits you gain when you create an account there, visit the [link](https://towardsdatascience.com/kaggle-kernels-for-beginners-a-step-by-step-guide-3db6b1cd7606))
 * In case the required packages are not installed or you doubt that they are not properly launched in your editor, run the following script:
 ```
