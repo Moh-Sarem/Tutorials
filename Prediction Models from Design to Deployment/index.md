@@ -33,7 +33,7 @@ print(<alais>.__version__)
 ```
 ## Content
 ### Day 01: Prediction using Linear Regression
-* [Day 01: Slides](https://github.com/Moh-Sarem/Courses/blob/main/IS372/2022/Content/lectures/lecture%2001/index.md)
+* [Day 01: Slides](Prediction Models from Design to Deployment/Day 01 Prediction using Linear Regression/readme.md)
 * Lab 01 Notebooks:
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
    - [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
