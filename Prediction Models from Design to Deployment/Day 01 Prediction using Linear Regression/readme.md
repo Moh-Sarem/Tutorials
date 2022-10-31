@@ -1,9 +1,9 @@
-Title: Lecture 1: Introduction
-Category: lectures
-Date: 2022-11-06
-Author: Mohammed Al-Sarem
-Slug: lecture01
-Tags: Introduction, data science process, logistics 
+<strong>Title:</strong> Day 01: Prediction using Linear Regression <br>
+<strong> Category: </strong>lectures <br>
+<strong> Date:</strong> 2022-11-06 <br>
+<strong>Author:</strong> Mohammed Al-Sarem <br>
+<strong>Slug:</strong> lecture01 <br>
+<strong>Tags: </strong>Introduction, data science process, Linear Regression <br> 
 
 
 ## Slides
