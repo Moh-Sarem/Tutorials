@@ -32,4 +32,4 @@ import <package_name as <alise>
 print(<alais>.__version__)
 ```
 ## Content
-### [Day 01: Prediction using Linear Regression](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/index.md)
+### [Day 01: Prediction using Linear Regression](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Day%2001%20Prediction%20using%20Linear%20Regression/readme.md)
