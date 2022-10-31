@@ -1,5 +1,9 @@
 # Content
 * [Prediction Models from Design to Deployment](https://github.com/Moh-Sarem/Courses/tree/main/IS372/readme.md)
+  - [Day 01 Prediction using Linear Regression]()
+  - [Day 02 Evaluation of Linear Regression]()
+  - [Day 03 Prediction using XGBRegressor]()
+  - [Day 04 Machine Leanring Deployment]()
 * ..
 
 # Instructor:
