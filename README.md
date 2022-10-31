@@ -4,7 +4,7 @@
   - Day 02 Evaluation of Linear Regression
   - Day 03 Prediction using XGBRegressor
   - Day 04 Machine Leanring Deployment
-* ..
+* [Dealing with Missing Values](https://github.com/Moh-Sarem/Tutorials/blob/main/README.md)
 
 # Instructor:
 * Prof.Dr. [Mohammed Al-Sarem](https://sites.google.com/site/alsaremmh)
