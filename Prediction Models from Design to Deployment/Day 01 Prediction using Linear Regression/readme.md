@@ -13,3 +13,8 @@
 ## Exercises
 - [Lecture 1: Data Science Demo Exercises 1 [Notebook]]({filename}notebook/hubway-part-1.ipynb)
 - [Lecture 1: Data Science Demo Exercises 2 [Notebook]]({filename}notebook/hubway-part-2.ipynb)
+* [Day 01: Slides](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Day%2001%20Prediction%20using%20Linear%20Regression/readme.md)
+* Lab 01 Notebooks:
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
+   - [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
+
