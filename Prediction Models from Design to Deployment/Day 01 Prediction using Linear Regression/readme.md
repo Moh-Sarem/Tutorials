@@ -7,13 +7,13 @@
 
 
 ## Slides
-[Slides (PDF)](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Day%2001%20Prediction%20using%20Linear%20Regression/Day%2001%20Prediction%20using%20Linear%20Regression.pdf)
-[Slides (PPTX)]({attach}slides/Lecture1_Introduction.pptx)
+ - [Slides (PDF)](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Day%2001%20Prediction%20using%20Linear%20Regression/Day%2001%20Prediction%20using%20Linear%20Regression.pdf)
+ - [Slides (PPTX)]({attach}slides/Lecture1_Introduction.pptx)
 
 ## Lab Notebooks
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
-- [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
+ - [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
 
 ## Exercises
-- [Lecture 1: Data Science Demo Exercises 1 [Notebook]]({filename}notebook/hubway-part-1.ipynb)
-- [Lecture 1: Data Science Demo Exercises 2 [Notebook]]({filename}notebook/hubway-part-2.ipynb)
+ - [Lecture 1: Data Science Demo Exercises 1 [Notebook]]({filename}notebook/hubway-part-1.ipynb)
+ - [Lecture 1: Data Science Demo Exercises 2 [Notebook]]({filename}notebook/hubway-part-2.ipynb)
