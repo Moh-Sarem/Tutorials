@@ -11,7 +11,7 @@
  - [Slides (PPTX)]({attach}slides/Lecture1_Introduction.pptx)
 
 ## Lab Notebooks
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/](https://colab.research.google.com/drive/18xCJK2sB9jUTDDjYZMW0n6KRoWZ_hg4E#scrollTo=T4Y_4nVBZ_Pn))
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xCJK2sB9jUTDDjYZMW0n6KRoWZ_hg4E#scrollTo=T4Y_4nVBZ_Pn)
  - [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
 
 ## Exercises
