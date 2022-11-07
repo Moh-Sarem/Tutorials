@@ -12,8 +12,4 @@
 
 ## Lab Notebooks
   - [Building Linear Regression from Scratch ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xCJK2sB9jUTDDjYZMW0n6KRoWZ_hg4E#scrollTo=T4Y_4nVBZ_Pn)
- - [![Open In Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://colab.research.google.com/drive/)
-
-## Exercises
- - [Lecture 1: Data Science Demo Exercises 1 [Notebook]]({filename}notebook/hubway-part-1.ipynb)
- - [Lecture 1: Data Science Demo Exercises 2 [Notebook]]({filename}notebook/hubway-part-2.ipynb)
+ - [download bike rental dataset!]([Prediction Models from Design to Deployment/Data/bike_rentals.csv](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Data/bike_rentals.csv)
