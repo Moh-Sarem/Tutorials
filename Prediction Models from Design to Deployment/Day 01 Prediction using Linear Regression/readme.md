@@ -12,4 +12,4 @@
 
 ## Lab Notebooks
   - [Building Linear Regression from Scratch ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xCJK2sB9jUTDDjYZMW0n6KRoWZ_hg4E#scrollTo=T4Y_4nVBZ_Pn)
- - [download bike rental dataset!]([Prediction Models from Design to Deployment/Data/bike_rentals.csv](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Data/bike_rentals.csv)
+ - [Download bike rental dataset!](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/Data/bike_rentals.csv)
