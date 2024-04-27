@@ -1,5 +1,5 @@
 # Content
-* [Web Scraping](https://github.com/Moh-Sarem/Tutorials/blob/main/Prediction%20Models%20from%20Design%20to%20Deployment/index.md)
+* [Web Scraping](https://github.com/Moh-Sarem/Tutorials/tree/main/Web%20Scraping/README.md)
   - Day 01 Web Scraping: Beautiful Soap
   - Day 02 MS Excel Dashboard: PivotTable
   - Day 03-05 MS Excel Interactive Dashboard
