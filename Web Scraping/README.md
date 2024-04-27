@@ -3,8 +3,6 @@
   - Day 01 Web Scraping: Beautiful Soap
   - Day 02 MS Excel Dashboard: PivotTable
   - Day 03-05 MS Excel Interactive Dashboard
-  * [Data Set](https://github.com/Moh-Sarem/Tutorials/blob/main/README.md)
-* [Dashboard Design](https://github.com/Moh-Sarem/Tutorials/tree/main/Web%20Scraping/README.md)
 
 # Instructor:
 * Prof.Dr. [Mohammed Al-Sarem](https://sites.google.com/site/alsaremmh)
