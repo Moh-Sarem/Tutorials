@@ -3,8 +3,9 @@
   - Day 01 Prediction using Linear Regression
   - Day 02 Evaluation of Linear Regression
   - Day 03 Prediction using XGBRegressor
-  - Day 04 Machine Leanring Deployment
+  - Day 04 Machine Learning Deployment
 * [Dealing with Missing Values](https://github.com/Moh-Sarem/Tutorials/blob/main/README.md)
+* [Web Scraping](https://github.com/Moh-Sarem/Tutorials/blob/main/Web Scraping)
 
 # Instructor:
 * Prof.Dr. [Mohammed Al-Sarem](https://sites.google.com/site/alsaremmh)
